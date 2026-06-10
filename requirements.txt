@@ -93,8 +93,8 @@ tqdm==4.67.3
 typer==0.25.1
 typing_extensions==4.15.0
 tzdata==2026.2
-ultralytics==8.4.60
+ultralytics
 ultralytics-thop==2.0.19
-ultralyticsplus==0.1.0
+ultralyticsplus
 urllib3==2.7.0
 Werkzeug==3.1.8
