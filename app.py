@@ -223,7 +223,7 @@ def simular_camara():
 
         if infraccion_detectada:
             try:
-                requests.post("http://192.168.127.210:3000/api/notificacion-flask", json={
+                requests.post("https://epp-proyects.onrender.com/api/notificacion-flask", json={
                     "codigo_camara": codigo_camara,
                     "tipo_falta": descripcion,
                     "severidad": severidad
